@@ -10,25 +10,34 @@
 
 # Detailed Analysis
 
-**Sales and Profit by Region:**   
+**Sales and Profit by Region:**  
+
 **Western Region:** Highest sales (£725,458) and profit (£108,418).  
+
 **Central Region:** Lowest profit (£39,706) and second-lowest sales (£487,214).  
+
 **South Region:** Lowest sales (£391,722) and customer count (1,620).
 
 **Sales and Profit by Category:**
+
 **Technology:** Highest sales (£815,219) and profit (£151,377) in 2017.  
+
 **Office Supplies:** Lowest sales and profit in 2014 (£151,776 and £3,015).
 
 **Annual Sales and Profit Trends:**
+
 Consistent sales and profit growth from 2014 to 2017. Most significant increase in sales (29.39%) and profit (32.84%) observed in 2016.
 
 **Shipping Mode Preference:**    
+
 **Standard Class:** Most popular shipping mode (61% of sales), particularly for Office Supplies.     
+
 **Same-day:** Least preferred option (18% of sales), primarily used for Technology products.
 
 **Customer Base Analysis:**
-Western Region: Largest customer base (3,203 customers, 32% of total).  
-South Region: Smallest customer base (1,620 customers, 16% of total).
+**Western Region:** Largest customer base (3,203 customers, 32% of total).  
+
+**South Region:** Smallest customer base (1,620 customers, 16% of total).
 
 **Conclusion:**
 The analysis reveals significant growth potential for Lories Superstores. The Western region and Technology category demonstrate strong performance.
