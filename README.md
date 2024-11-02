@@ -6,7 +6,7 @@
 
 **Data Source:** Internal sales and customer data from Lories Superstores.  
 
-**Key Performance Indicators (KPIs):** Sales, Profit, quantity sold, no of transactions, segment sales, category, shipping mode.
+**Key Performance Indicators (KPIs):** Sales, Profit, Quantity sold, No of transactions, Segment sales, Category, Shipping mode.
 
 # Detailed Analysis
 
