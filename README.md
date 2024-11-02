@@ -52,15 +52,15 @@ Leverage Technology category's growth potential by expanding product offerings a
 Review Office Supplies sales strategy to potentially improve profit margins.
 
 **Customer Base:**
-Implement loyalty programs and personalized marketing to enhance customer engagement.
+Implement loyalty programs and personalised marketing to enhance customer engagement.
 Monitor customer distribution across regions and address any declining customer counts.
 
 **Sales and Profit:**
 Set annual growth targets for sales and profit aligned with overall strategic objectives.
-Regularly review sales mix to optimize inventory and marketing strategies.
+Regularly review sales mix to optimise inventory and marketing strategies.
 
 **Shipping Mode Efficiency:**
-Analyze cost-effectiveness of shipping modes and incentivize customers to choose more efficient options.
+Analyse cost-effectiveness of shipping modes and incentivize customers to choose more efficient options.
 
 **Inventory Management:**
 Improve inventory turnover by optimizing reorder points, demand forecasting, and identifying slow-moving products.
